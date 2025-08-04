@@ -1,0 +1,155 @@
+08-04 10:24:47, Git commit: 
+08-04 10:24:47, content: test
+08-04 10:24:47, label_info: label_list/sha-40.txt
+08-04 10:24:47, seed: 15
+08-04 10:24:47, crop_size: 256
+08-04 10:24:47, downsample_ratio: 8
+08-04 10:24:47, data_dir: ./datasets/sha
+08-04 10:24:47, save_dir: history
+08-04 10:24:47, max_num: 1
+08-04 10:24:47, resume: 
+08-04 10:24:47, batch_size: 8
+08-04 10:24:47, num_labeled: 4
+08-04 10:24:47, weight_decay: 0.0001
+08-04 10:24:47, lr: 1e-05
+08-04 10:24:47, num_workers: 4
+08-04 10:24:47, device: 0
+08-04 10:24:47, start_epoch: 0
+08-04 10:24:47, epochs: 1000
+08-04 10:24:47, start_val: 60
+08-04 10:24:47, val_epoch: 1
+08-04 10:24:47, inpaint_wtime: 100
+08-04 10:24:47, start_inpaint: 1
+08-04 10:24:47, inpaint_hosts: 
+08-04 10:24:47, inpaint_prompts_file: 
+08-04 10:24:47, inpaint_epoch: 80
+08-04 10:24:47, ema_decay: 0.97
+08-04 10:24:47, weight_ramup: 20
+08-04 10:24:47, mask_ratio: 0.3
+08-04 10:24:47, mask_size: 32
+08-04 10:24:48, Using 1 gpus
+08-04 10:24:48, Number of images in the dataset 0, with 0 labeled data and 0 unlabeled data
+08-04 10:25:26, Git commit: 
+08-04 10:25:26, content: test
+08-04 10:25:26, label_info: label_list/sha-40.txt
+08-04 10:25:26, seed: 15
+08-04 10:25:26, crop_size: 256
+08-04 10:25:26, downsample_ratio: 8
+08-04 10:25:26, data_dir: /home/tian/桌面/taste_more_taste_better-main/data_dir/ShanghaiTech
+08-04 10:25:26, save_dir: history
+08-04 10:25:26, max_num: 1
+08-04 10:25:26, resume: 
+08-04 10:25:26, batch_size: 8
+08-04 10:25:26, num_labeled: 4
+08-04 10:25:26, weight_decay: 0.0001
+08-04 10:25:26, lr: 1e-05
+08-04 10:25:26, num_workers: 4
+08-04 10:25:26, device: 0
+08-04 10:25:26, start_epoch: 0
+08-04 10:25:26, epochs: 1000
+08-04 10:25:26, start_val: 60
+08-04 10:25:26, val_epoch: 1
+08-04 10:25:26, inpaint_wtime: 100
+08-04 10:25:26, start_inpaint: 1
+08-04 10:25:26, inpaint_hosts: 
+08-04 10:25:26, inpaint_prompts_file: 
+08-04 10:25:26, inpaint_epoch: 80
+08-04 10:25:26, ema_decay: 0.97
+08-04 10:25:26, weight_ramup: 20
+08-04 10:25:26, mask_ratio: 0.3
+08-04 10:25:26, mask_size: 32
+08-04 10:25:26, Using 1 gpus
+08-04 10:25:26, Number of images in the dataset 0, with 0 labeled data and 0 unlabeled data
+08-04 10:31:30, Git commit: 
+08-04 10:31:30, content: test
+08-04 10:31:30, label_info: label_list/sha-40.txt
+08-04 10:31:30, seed: 15
+08-04 10:31:30, crop_size: 256
+08-04 10:31:30, downsample_ratio: 8
+08-04 10:31:30, data_dir: /home/tian/桌面/taste_more_taste_better-main/data_dir/ShanghaiTech/part_A_final
+08-04 10:31:30, save_dir: history
+08-04 10:31:30, max_num: 1
+08-04 10:31:30, resume: 
+08-04 10:31:30, batch_size: 8
+08-04 10:31:30, num_labeled: 4
+08-04 10:31:30, weight_decay: 0.0001
+08-04 10:31:30, lr: 1e-05
+08-04 10:31:30, num_workers: 4
+08-04 10:31:30, device: 0
+08-04 10:31:30, start_epoch: 0
+08-04 10:31:30, epochs: 1000
+08-04 10:31:30, start_val: 60
+08-04 10:31:30, val_epoch: 1
+08-04 10:31:30, inpaint_wtime: 100
+08-04 10:31:30, start_inpaint: 1
+08-04 10:31:30, inpaint_hosts: 
+08-04 10:31:30, inpaint_prompts_file: 
+08-04 10:31:30, inpaint_epoch: 80
+08-04 10:31:30, ema_decay: 0.97
+08-04 10:31:30, weight_ramup: 20
+08-04 10:31:30, mask_ratio: 0.3
+08-04 10:31:30, mask_size: 32
+08-04 10:31:30, Using 1 gpus
+08-04 10:31:30, Number of images in the dataset 192, with 73 labeled data and 119 unlabeled data
+08-04 10:44:39, Git commit: 
+08-04 10:44:39, content: test
+08-04 10:44:39, label_info: label_list/sha-40.txt
+08-04 10:44:39, seed: 15
+08-04 10:44:39, crop_size: 256
+08-04 10:44:39, downsample_ratio: 8
+08-04 10:44:39, data_dir: /home/tian/桌面/taste_more_taste_better-main/data_dir/ShanghaiTech/part_A_final
+08-04 10:44:39, save_dir: history
+08-04 10:44:39, max_num: 1
+08-04 10:44:39, resume: 
+08-04 10:44:39, batch_size: 8
+08-04 10:44:39, num_labeled: 4
+08-04 10:44:39, weight_decay: 0.0001
+08-04 10:44:39, lr: 1e-05
+08-04 10:44:39, num_workers: 4
+08-04 10:44:39, device: 0
+08-04 10:44:39, start_epoch: 0
+08-04 10:44:39, epochs: 1000
+08-04 10:44:39, start_val: 60
+08-04 10:44:39, val_epoch: 1
+08-04 10:44:39, inpaint_wtime: 100
+08-04 10:44:39, start_inpaint: 1
+08-04 10:44:39, inpaint_hosts: 
+08-04 10:44:39, inpaint_prompts_file: 
+08-04 10:44:39, inpaint_epoch: 80
+08-04 10:44:39, ema_decay: 0.97
+08-04 10:44:39, weight_ramup: 20
+08-04 10:44:39, mask_ratio: 0.3
+08-04 10:44:39, mask_size: 32
+08-04 10:44:39, Using 1 gpus
+08-04 10:44:39, Number of images in the dataset 192, with 73 labeled data and 119 unlabeled data
+08-04 10:47:26, Git commit: 
+08-04 10:47:26, content: test
+08-04 10:47:26, label_info: label_list/sha-40.txt
+08-04 10:47:26, seed: 15
+08-04 10:47:26, crop_size: 256
+08-04 10:47:26, downsample_ratio: 8
+08-04 10:47:26, data_dir: /home/tian/桌面/taste_more_taste_better-main/data_dir/ShanghaiTech/part_A_final
+08-04 10:47:26, save_dir: history
+08-04 10:47:26, max_num: 1
+08-04 10:47:26, resume: 
+08-04 10:47:26, batch_size: 8
+08-04 10:47:26, num_labeled: 4
+08-04 10:47:26, weight_decay: 0.0001
+08-04 10:47:26, lr: 1e-05
+08-04 10:47:26, num_workers: 4
+08-04 10:47:26, device: 0
+08-04 10:47:26, start_epoch: 0
+08-04 10:47:26, epochs: 1000
+08-04 10:47:26, start_val: 60
+08-04 10:47:26, val_epoch: 1
+08-04 10:47:26, inpaint_wtime: 100
+08-04 10:47:26, start_inpaint: 1
+08-04 10:47:26, inpaint_hosts: 
+08-04 10:47:26, inpaint_prompts_file: 
+08-04 10:47:26, inpaint_epoch: 80
+08-04 10:47:26, ema_decay: 0.97
+08-04 10:47:26, weight_ramup: 20
+08-04 10:47:26, mask_ratio: 0.3
+08-04 10:47:26, mask_size: 32
+08-04 10:47:26, Using 1 gpus
+08-04 10:47:26, Number of images in the dataset 192, with 73 labeled data and 119 unlabeled data
